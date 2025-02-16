@@ -152,16 +152,4 @@ The application implements security measures to prevent accessing files outside 
 
 *   `AIPROXY_TOKEN`: Required for accessing the LLM API.  Pass this as an environment variable when running the Docker container (e.g., `-e AIPROXY_TOKEN=$AIPROXY_TOKEN`).
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Implement your changes.
-4.  Test your changes thoroughly.
-5.  Submit a pull request.
-
-## License
-
-[Specify the license for your project, e.g., MIT License]
